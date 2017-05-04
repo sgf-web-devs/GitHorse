@@ -1,0 +1,5 @@
+.idea
+*.map
+css/main.css
+node_modules
+vendor/
