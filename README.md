@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/mykebates/HorseStrap/master/source/images/horse.jpg "HorseStrap")
+![alt text](https://pbs.twimg.com/profile_images/1294571527/Tom-Big_400x400.jpg "HorseStrap")
 
 HorseStrap
 ==========
